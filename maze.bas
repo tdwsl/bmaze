@@ -1,4 +1,4 @@
-0 rem Maze generator for bwbasic
+0 rem Maze generator using bwbasic
 5 w=25: h=19: dim m(w*h)
 6 dim s(150) : p = 0
 7 d = 2110
